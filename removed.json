@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "projectID": 235591,
+      "fileID": 2967198,
+    },
+    {
+      "projectID": 221939,
+      "fileID": 2242988
+    },
+    {
+      "projectID": 234948,
+      "fileID": 2965965
+    }
+  ],
+  "overrides": "https://raw.githubusercontent.com/HopikDev/FC2/main/removed_overrides.json"
+}
