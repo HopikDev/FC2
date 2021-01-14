@@ -1,7 +1,19 @@
 {
-  "version": "v0.4",
-  "versionNumber": "0.4", 
+  "version": "v0.5",
+  "versionNumber": "0.5", 
   "files":[
+    {
+      "projectID": 228702,
+      "fileID": 2280728
+    },
+    {
+      "projectID": 229045,
+      "fileID": 2280731
+    },
+    {
+      "projectID": 229048,
+      "fileID": 2280734
+    },
     {
       "projectID": 223896,
       "fileID": 2283267
@@ -428,5 +440,5 @@
       "fileID":2232181
     }
   ],
-  "overrides":"https://raw.githubusercontent.com/HopikDev/FC2/v0.4/overrides.zip"
+  "overrides":"https://raw.githubusercontent.com/HopikDev/FC2/v0.5/overrides.zip"
 }
